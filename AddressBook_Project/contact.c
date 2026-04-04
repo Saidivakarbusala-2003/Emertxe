@@ -27,7 +27,6 @@ void listContacts(AddressBook *addressBook) //function defination for listcontac
 void initialize(AddressBook *addressBook) //function defination for initialize
 {
     addressBook->contactCount = 0;//contactCount ass the value
-    //populateAddressBook(addressBook);
     
     // Load contacts from file during initialization (After files)
     loadContactsFromFile(addressBook);
