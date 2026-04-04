@@ -1,11 +1,11 @@
-# Arbitrary Precision Calculator (C Project)
+# Arbitrary Precision Calculator (DSA Project)
 
 ## 📌 Overview
-This project implements an **Arbitrary Precision Calculator (APC)** in C. It allows performing mathematical operations on very large numbers that exceed the standard data type limits.
+This project implements an "Arbitrary Precision Calculator (APC)" using Linked list. It allows performing mathematical operations on very large numbers that exceed the standard data type limits.
 
 ## 🚀 Features
 - Supports large integer arithmetic
-- Addition, Subtraction, Multiplication, Division
+- Addition, Subtraction, Multiplication, Division , Modulus
 - Handles numbers beyond built-in data type limits
 - Menu-driven or command-line interface
 
@@ -22,6 +22,7 @@ APC/
 ├── subtraction.c / subtraction.h
 ├── multiplication.c / multiplication.h
 ├── division.c / division.h
+├── modulus.c / modulus.h
 ├── common.h
 └── ...
 ```
@@ -43,7 +44,7 @@ Run the program:
 
 Follow the menu to:
 - Enter large numbers
-- Choose operation (+, -, *, /)
+- Choose operation (+, -, *, /, %)
 - View result
 
 ## 📌 Example
