@@ -1,4 +1,4 @@
-# 📌 Address Book Project
+# 📌 Address Book (C Project)
 
 ## 📖 Description
 
