@@ -28,7 +28,7 @@ APC/
 ```
 
 ## ⚙️ Compilation
-Compile using GCC:
+Compile using GCC (or) Makefile:
 
 ```bash
 gcc main.c addition.c subtraction.c multiplication.c division.c -o apc
