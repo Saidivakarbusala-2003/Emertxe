@@ -52,7 +52,7 @@ Extract the hidden message:
 
 ## 📌 Example
 - Input image: `beautiful.bmp`
-- Secret file: `secret.txt`
+- Secret message file: `secret.txt`
 - Output image: `steged_img.bmp`
 
 ## ⚠️ Notes
@@ -63,4 +63,4 @@ Extract the hidden message:
 Sai Divakar Busala
 
 ## 📄 License
-This project is for educational purposes.
+This project is open-source and free to use for learning purposes.
