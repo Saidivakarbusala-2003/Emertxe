@@ -63,4 +63,4 @@ Extract the hidden message:
 Sai Divakar Busala
 
 ## 📄 License
-This project is for educational purposes.
+This project is open-source and free to use for learning purposes.
