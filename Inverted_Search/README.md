@@ -1,7 +1,7 @@
-# Inverted Search (C Project)
+# Inverted Search (DSA Project)
 
 ## 📌 Overview
-This project implements an **Inverted Search system** using the C programming language. It creates an index of words from multiple files and allows fast searching of words across those files.
+This project implements an "Inverted Search system" using the DSA. It creates an index of words from multiple files and allows fast searching of words across those files.
 
 ## 🚀 Features
 - Create an inverted index from multiple text files
@@ -21,12 +21,14 @@ Inverted_Search/
 ├── create_db.c / create_db.h
 ├── search.c / search.h
 ├── display.c / display.h
+├── save.c / save.h
+├── update.c / update.h
 ├── common.h
 └── ...
 ```
 
 ## ⚙️ Compilation
-Compile using GCC:
+Compile using GCC (or) Makefile:
 
 ```bash
 gcc main.c create_db.c search.c display.c -o inverted_search
@@ -67,4 +69,4 @@ file2.txt -> 1 time
 Sai Divakar Busala
 
 ## 📄 License
-This project is for educational purposes.
+This project is open-source and free to use for learning purposes.
