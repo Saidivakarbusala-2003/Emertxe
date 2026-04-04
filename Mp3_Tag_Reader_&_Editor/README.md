@@ -64,4 +64,4 @@ gcc main.c read.c edit.c -o mp3tag
 Sai Divakar Busala
 
 ## 📄 License
-This project is for educational purposes.
+This project is open-source and free to use for learning purposes.
