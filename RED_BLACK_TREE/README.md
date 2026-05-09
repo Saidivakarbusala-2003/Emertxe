@@ -1,11 +1,12 @@
-# RED BLACK TREE (DSA Project)
+ RED BLACK TREE (DSA Project)
 
 📌 Overview:
 ------------
-This project implements a Red-Black Tree (RBT) in DSA.
+This project implements a Red-Black Tree (RBT) in Data Structures using the C programming language.
 
-A Red-Black Tree is a self-balancing Binary Search Tree (BST)
-that maintains balance using node colors and rotations.
+A Red-Black Tree is a self-balancing Binary Search Tree (BST) in which every node contains an extra color attribute, either RED or BLACK.
+The tree automatically maintains balance after insertion and deletion operations using rotations and recoloring techniques.
+The balancing properties of the Red-Black Tree guarantee efficient performance for dynamic data operations such as insertion, deletion, and searching.
 
 
 🚀 Features:
@@ -32,7 +33,7 @@ that maintains balance using node colors and rotations.
 
 -------------------------------------------------------------------------------
 
-# Data Structure:
+ Data Structure:
 ---------------
 
 typedef int data_t;
