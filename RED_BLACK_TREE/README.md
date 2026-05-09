@@ -1,4 +1,4 @@
- RED BLACK TREE (DSA Project)
+ # RED BLACK TREE (DSA Project)
 
 📌 Overview :
 --------------
@@ -33,8 +33,8 @@ The balancing properties of the Red-Black Tree guarantee efficient performance f
 
 -------------------------------------------------------------------------------
 
- Data Structure :
----------------==
+🧠 Data Structure :
+-------------------
 
 typedef int data_t;
 
@@ -114,7 +114,7 @@ Saiddivakar Busala
 
 -------------------------------------------------------------------------------
 
-# License :
+📄 License :
 -----------
 This project is open-source and free to use for learning purposes.
 
