@@ -1,7 +1,7 @@
  RED BLACK TREE (DSA Project)
 
-📌 Overview:
-------------
+📌 Overview :
+--------------
 This project implements a Red-Black Tree (RBT) in Data Structures using the C programming language.
 
 A Red-Black Tree is a self-balancing Binary Search Tree (BST) in which every node contains an extra color attribute, either RED or BLACK.
@@ -9,8 +9,8 @@ The tree automatically maintains balance after insertion and deletion operations
 The balancing properties of the Red-Black Tree guarantee efficient performance for dynamic data operations such as insertion, deletion, and searching.
 
 
-🚀 Features:
----------
+🚀 Features :
+-------------- 
 1. Insert Node
 2. Delete Node
 3. Search Node
@@ -23,8 +23,8 @@ The balancing properties of the Red-Black Tree guarantee efficient performance f
 
 -------------------------------------------------------------------------------
 
-📌 Red-Black Tree Properties:
---------------------------
+📌 Red-Black Tree Properties :
+------------------------------
 1. Every node is either RED or BLACK.
 2. Root node is always BLACK.
 3. Red node cannot have a red child.
@@ -33,8 +33,8 @@ The balancing properties of the Red-Black Tree guarantee efficient performance f
 
 -------------------------------------------------------------------------------
 
- Data Structure:
----------------
+ Data Structure :
+---------------==
 
 typedef int data_t;
 
@@ -50,8 +50,8 @@ typedef struct tree
 
 -------------------------------------------------------------------------------
 
-⚙️ Compilation:
-------------
+⚙️ Compilation :
+----------------
 
 Compile using:
 
@@ -67,8 +67,8 @@ Clean files:
 
 -------------------------------------------------------------------------------
 
-📖 Menu:
------
+📖 Menu :
+---------
 
 1. Insert
 2. Delete
@@ -81,8 +81,8 @@ Clean files:
 
 -------------------------------------------------------------------------------
 
-# Example Tree :
----------------
+📸 Example Tree :
+------------------
 
                 20(B)
               /       \
@@ -98,7 +98,7 @@ Clean files:
 -------------------------------------------------------------------------------
 
 📄 Time Complexity :
-------------------
+---------------------
 
 Insert          O(log n)
 Delete          O(log n)
@@ -114,7 +114,7 @@ Saiddivakar Busala
 
 -------------------------------------------------------------------------------
 
-# License:
-
+# License :
+-----------
 This project is open-source and free to use for learning purposes.
 
