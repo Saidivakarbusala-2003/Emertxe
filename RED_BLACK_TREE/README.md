@@ -100,10 +100,10 @@ Clean files:
 📄 Time Complexity :
 ---------------------
 
-Insert          O(log n)
-Delete          O(log n)
-Search          O(log n)
-Find Min/Max    O(log n)
+Insert          O(log n),
+ Delete          O(log n),
+ Search          O(log n),
+ Find Min/Max    O(log n),
 
 -------------------------------------------------------------------------------
 
