@@ -19,7 +19,6 @@ The balancing properties of the Red-Black Tree guarantee efficient performance f
 6. Delete Minimum
 7. Delete Maximum
 8. Tree Printing
-9. Red-Black Balancing
 
 -------------------------------------------------------------------------------
 
