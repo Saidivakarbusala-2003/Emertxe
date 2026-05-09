@@ -1,5 +1,5 @@
 
-Overview:
+# Overview:
 ---------
 This project implements a Red-Black Tree (RBT) in DSA.
 
@@ -7,7 +7,7 @@ A Red-Black Tree is a self-balancing Binary Search Tree (BST)
 that maintains balance using node colors and rotations.
 
 
-Features:
+# Features:
 ---------
 1. Insert Node
 2. Delete Node
@@ -21,7 +21,7 @@ Features:
 
 -------------------------------------------------------------------------------
 
-Red-Black Tree Properties:
+# Red-Black Tree Properties:
 --------------------------
 1. Every node is either RED or BLACK.
 2. Root node is always BLACK.
@@ -31,7 +31,7 @@ Red-Black Tree Properties:
 
 -------------------------------------------------------------------------------
 
-Data Structure:
+# Data Structure:
 ---------------
 
 typedef int data_t;
@@ -48,7 +48,7 @@ typedef struct tree
 
 -------------------------------------------------------------------------------
 
-Compilation:
+# Compilation:
 ------------
 
 Compile using:
@@ -65,7 +65,7 @@ Clean files:
 
 -------------------------------------------------------------------------------
 
-Menu:
+# Menu:
 -----
 
 1. Insert
@@ -79,7 +79,7 @@ Menu:
 
 -------------------------------------------------------------------------------
 
-Example Tree:
+# Example Tree:
 -------------
 
                 20(B)
@@ -95,7 +95,7 @@ Example Tree:
 
 -------------------------------------------------------------------------------
 
-Time Complexity:
+# Time Complexity:
 ----------------
 
 Insert          O(log n)
@@ -105,7 +105,7 @@ Find Min/Max    O(log n)
 
 -------------------------------------------------------------------------------
 
- Author:
+# Author:
 -------
 
 Saiddivakar Busala
